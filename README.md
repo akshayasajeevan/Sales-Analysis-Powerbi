@@ -1,4 +1,3 @@
-
 # Sales Performance
 
 ## 📌 Project Overview
@@ -96,3 +95,7 @@ The dashboard supports better understanding of business trends and helps identif
 ## 👩‍💻 Author
 
 **Akshaya S**
+
+Thank you for visiting this project!
+
+
